@@ -1,16 +1,21 @@
 ## Hi there 👋
+Hello, my name is Huỳnh Minh Sang. I'm an Information Technology student at a university in Vietnam.
+I'm very interested in backend development and DevOps, so I'm currently studying JavaScript to pursue backend development and learning some DevOps basics.
+
+- 🔭 I’m currently working on making this README look cooler 😎
+- 🌱 I’m currently learning Backend development
+- 😄 Pronouns: He/Him
+
+### Tools:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+
+
 
 <!--
-**SangHuynh2508/SangHuynh2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
